@@ -2,7 +2,7 @@
 
 import styles from "./page.module.css";
 import { ADLaM, AlataNormal, BossBaby } from "./fonts";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const BALLOON_COLORS = [
     "#2767AD",

@@ -8,7 +8,7 @@ export const ADLaM = ADLaM_Display({
 
 export const AlataNormal = Alata({
     weight: "400",
-    // subsets: ["adlam"]
+    subsets: ["latin"]
 })
 
 export const BossBaby = localFont({

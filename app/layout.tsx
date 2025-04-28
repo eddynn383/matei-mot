@@ -4,10 +4,10 @@ import "./globals.css";
 
 export const metadata: Metadata = {
     title: "Party Mot Matei",
-    description: "Deschide-mă pănă pe 03 Mai 2024",
+    description: "Deschide-mă pănă pe 03 Mai 2025",
     openGraph: {
         title: "Party Mot Matei",
-        description: "Deschide-mă pănă pe 03 Mai 2024",
+        description: "Deschide-mă pănă pe 03 Mai 2025",
         url: "matei-mot.vercel.app",
         siteName: "Party Mot",
         images: [
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Party Mot Matei",
-        description: "Deschide-mă pănă pe 03 Mai 2024",
+        description: "Deschide-mă pănă pe 03 Mai 2025",
         images: ["/cover.png"],
     },
 };
